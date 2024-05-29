@@ -2,8 +2,9 @@
 import React from "react";
 import { StickyScroll } from "./ui/sticky-scroll-reveal";
 import Link from "next/link";
+import Image from "next/image";
 
-//content
+// content
 const content = [
   {
     title: " About Myself",
@@ -11,33 +12,29 @@ const content = [
       <span>
         A proficient<b> MERN stack developer </b> , and an enthusiast of Data
         Structures and Algorithms. <br></br>I also find myself drawn to the
-        realm of IoT robots, I'm equally passionate about playing Guitar and
+        realm of IoT robots, I&#39;m equally passionate about playing Guitar and
         games. <br></br>I have
         <b> solved more than 300 DSA questions</b> on platforms like{" "}
-        <Link className="text-base text-teal-600 font-semibold tracking-wide "
-          href={
-            "https://leetcode.com/u/pranav343/"
-          }
+        <Link className="text-base text-teal-600 font-semibold tracking-wide"
+          href={"https://leetcode.com/u/pranav343/"}
           target="_blank"
         ><b>Leetcode</b></Link> and  
-        <Link className="text-base text-teal-600 font-semibold tracking-wide "
-          href={
-            "https://www.naukri.com/code360/profile/pranav343" 
-          }
+        <Link className="text-base text-teal-600 font-semibold tracking-wide"
+          href={"https://www.naukri.com/code360/profile/pranav343"} 
           target="_blank"
-        ><b> Coding Ninja's </b></Link>
+        ><b> Coding Ninja&#39;s </b></Link>
         etc.
       </span>
     ),
     content: (
       <div className="h-full w-full bg-[linear-gradient(to_bottom_right,var(--cyan-500),var(--emerald-500))] flex items-center justify-center text-white">
-        <img
+        <Image
           src="/PicsArt_12-03-01.55.22.jpg"
           width={300}
           height={300}
           className="h-full w-full object-cover"
           alt="linear board demo"
-        ></img>
+        />
       </div>
     ),
   },
@@ -65,7 +62,7 @@ const content = [
       <span>
         <b className="text-base text-teal-600 font-semibold tracking-wide">Winner</b> , Eminence (Tech Event at JIIT)<br></br>
         <br></br>
-        <b className="text-base text-teal-600 font-semibold tracking-wide"> Techkriti'23, IIT Kanpur.</b>Qualified for the final.
+        <b className="text-base text-teal-600 font-semibold tracking-wide"> Techkriti&#39;23, IIT Kanpur.</b>Qualified for the final.
         <br></br>
         <br></br>
         <b className="text-base text-teal-600 font-semibold tracking-wide">Certifications:</b> ∘ The Complete 2023 Web Development Bootcamp
