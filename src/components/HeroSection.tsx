@@ -11,13 +11,13 @@ function HeroSection() {
       />
       <div className="py-4 relative z-10 w-full text-center">
         <h1 className="mt-40 md:mt-0 text-4xl md:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400">
-          Pranav Dhiman's PortFolio
+          Pranav Dhiman&apos;s PortFolio
         </h1>
         <p className="mt-20 font-normal text-base md:text-lg text-neutral-300 max-w-xl mx-auto">
           A versatile web developer and avid gamer, blending a passion for both
-          worlds seamlessly. With a sharp focus on web development and ML , I've
+          worlds seamlessly. With a sharp focus on web development and ML, I&apos;ve
           crafted this project utilizing cutting-edge technologies such as 
-          <b> Next.js, TypeScript</b>, and UI framework like  <b>Aceternity UI</b> and <b>Shadcn</b>. Dive into my work to witness the
+          <b> Next.js, TypeScript</b>, and UI frameworks like <b>Aceternity UI</b> and <b>Shadcn</b>. Dive into my work to witness the
           fusion of creativity and technical prowess in action.
         </p>
         <div className="mt-10">
