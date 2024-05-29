@@ -1,0 +1,64 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Dakshta",
+        "slug": "Tech Stack: WebRTC , React , Node.js , Express.js , MongoDB , Gauth , ShadCn, Socket.io",
+        "description": "A Website to record Your English Videos or Upload pre recorded videos to get a descriptive report of your positives and negatives so that u can work upon them and improve your speaking skills. Tech Stack: WebRTC , React , Node.js , Express.js , MongoDB , Gauth , ShadCn, Socket.io",
+        "instructor": "Pranav Dhiman",
+        "isFeatured": true,
+        "image": "/projects/1.png" 
+      },
+      {
+        "id": 2,
+        "title": "IntelliHire",
+        "slug": "Tech Stack: React , Node.js , Express.js , MongoDB , Gauth , ShadCn, Socket.io",
+        "description": "A platform for all Job Professionals to judge their skills and get their dream job . Tech Stack: React , Node.js , Express.js , MongoDB , Gauth , ShadCn, Socket.io",
+
+        "instructor": "Pranav Dhiman",
+        "isFeatured": true,
+        "image": "/projects/2.png" 
+      },
+      {
+        "id": 3,
+        "title": "PD-Store",
+        "slug": "E-commerce Platform for all the users to buy and sell products.",
+        "description": "E-commerce Website Clone where you can buy and sell Tech Products , it have User DashBoard , Admin Pannel , Functional Payment Gateway and responsive Cart functionality .Tech Stack: React , Node.js , Express.js , Strapi.io , Gauth , Stripe",
+     
+        "instructor": "Pranav Dhiman",
+        "isFeatured": true,
+        "image": "/projects/3.png" 
+      },
+      {
+        "id": 4,
+        "title": "DrumKit Game",
+        "slug": "DrumKit Game",
+        "description": "A DrumKit game where u can just have a great timepass Session by just playing and developing your skills of Drumming using your keyboard or mouse . Tech Stack: HTML , CSS , JS , Jquery",
+       
+        "instructor": "Pranav Dhiman",
+        "isFeatured": true,
+        "image": "/projects/4.png"
+      },
+      {
+        "id": 5,
+        "title": "Memory Game",
+        "slug": "Memory Game",
+        "description": "I just created a Memory Game , in which you have to remember the pattern in which the sound and the keys are pressed and then play the same pattern . Tech Stack: Html , Css , Bootstrap , JS , Jquery",
+
+        "instructor": "Pranav Dhiman",
+        "isFeatured": true,
+        "image": "/projects/5.png"
+      },
+      {
+        "id": 6,
+        "title": "Being Anonymous",
+        "slug": "Being Anonymous",
+        "description": "A platform where you can share your thoughts and feelings anonymously and can get the feedback from the community . Tech Stack: React , Node.js , Express.js , MongoDB , Gauth , ShadCn, Socket.io",
+
+        "instructor": "Pranav Dhiman",
+        "isFeatured": true,
+        "image": "/projects/6.png"
+      }
+    ]
+  }
+  
